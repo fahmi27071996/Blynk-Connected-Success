@@ -1,0 +1,2 @@
+Blynk.begin(auth, ssid, pass, "blynk-cloud.com",8080);//ganti blynk.begin yang ada di example dengan yang ini
+
